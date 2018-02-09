@@ -1,0 +1,9 @@
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\bin\Release\create_scrapy_tool.exe.config
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\bin\Release\create_scrapy_tool.exe
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\bin\Release\create_scrapy_tool.pdb
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.Form1.resources
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.Properties.Resources.resources
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.csproj.GenerateResource.Cache
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.csproj.CoreCompileInputs.cache
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.exe
+E:\Programmes\CSharp\create_scrapy_tool\create_scrapy_tool\obj\Release\create_scrapy_tool.pdb
